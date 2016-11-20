@@ -1,6 +1,6 @@
 # Circles_in_images
 
-This project involves using parametric transforms to find circles in images.
+This project concerns the usage of parametric transforms to find circles in images.
 
 In this project, we take a detailed look at how we can find shapes (namely, circles) inside images using the generalized 
 form of the Hough Transform. 
